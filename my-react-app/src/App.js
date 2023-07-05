@@ -34,10 +34,6 @@ export default function Board() {
     status = "Next player: " + (xIsNext ? "X" : "O");
   }
 
-
-
-
-  
   
   return (
     <>
